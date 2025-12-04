@@ -1,0 +1,8 @@
+# Corpus file
+# corpus.json
+
+# Python cache
+__pycache__/
+
+# Conda environment
+arxiv-corpus/
