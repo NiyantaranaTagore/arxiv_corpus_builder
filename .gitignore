@@ -1,8 +1,8 @@
 # Corpus file
 corpus.json
 
-# Python cache
-__pycache__/
-
 # Conda environment
 arxiv-corpus/
+
+# Python cache
+__pycache__/
