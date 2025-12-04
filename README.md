@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ArXiv Domain Corpus Builder + Similarity Checker
 
 This project provides a command-line tool to build a domain-specific corpus of research papers from ArXiv and check whether a new paper already exists in the corpus using semantic similarity.
@@ -110,3 +111,7 @@ Functionality to fetch and add a new paper based on title/abstract is a future e
 - **Batch Processing**: Add functionality to check a list of new papers from a file.
 
 conda create --name arxiv python=python=3.10
+=======
+# arxiv_corpus_builder
+This project provides a command-line tool to build a domain-specific corpus of research papers from ArXiv and check whether a new paper already exists in the corpus using semantic similarity.
+>>>>>>> e19306ba5ea0a41bfedf74aa903b376949276865
